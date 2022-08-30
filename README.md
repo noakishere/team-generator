@@ -1,6 +1,6 @@
-# Testproj
+# Team Generator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+This project is used a dummy project to practice Angular
 
 ## Development server
 
