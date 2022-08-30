@@ -1,6 +1,6 @@
 # Team Generator
 
-This project is used a dummy project to practice Angular
+This project is used as a dummy project to practice Angular
 
 ## Development server
 
